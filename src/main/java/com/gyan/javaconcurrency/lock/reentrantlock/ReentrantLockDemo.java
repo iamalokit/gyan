@@ -1,4 +1,4 @@
-package com.gyan.javaconcurrency.lock;
+package com.gyan.javaconcurrency.lock.reentrantlock;
 
 import java.util.concurrent.locks.ReentrantLock;
 
